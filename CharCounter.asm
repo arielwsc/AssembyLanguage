@@ -1,3 +1,5 @@
+# This program calculates the number of words and characters present on a string entered by the user. 
+# Please note that the program treats the space as one char.
 .data
 
 msg:	.asciiz "Enter some text"
